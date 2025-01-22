@@ -66,17 +66,14 @@
       ]
     }
   ],
-  "activities": [
+  "volunteer": [
     {
-      "awarder": "Supporting Women In Tech and Computing Hawai'i (SWITCH)",
-      "position": "Board Member",
+      "organization": "Supporting Women In Tech and Computing Hawai'i",
       "website": "https://switch-uhm.github.io/",
-      "date": "2023-Present",
-      "highlights": [
-        "Plan and engage in social events promoting SWITCH to peers",
-        "Use Graphic Design for promotional posters, t-shirts, etc.",
-        "Volunteer work with girl-scouts and K-12 students introducing STEM and Robotics"
-      ]
+      "position": "Board Member",
+      "startDate": "2023-10-24",
+      "endDate": "",
+      "summary": "Participating in the organization and planning of events and promotion, including weekend volunteer work with girl-scouts and K-12 students to introduce STEM and Robotics."
     }
   ],
   "awards": [

@@ -66,6 +66,18 @@
       ]
     }
   ],
+  "activities": [
+    {
+      "awarder": "Supporting Women In Tech and Computing Hawai'i (SWITCH)",
+      "position": "Board Member",
+      "website": "https://switch-uhm.github.io/",
+      "date": "2023-Present",
+      "highlights": [
+        "Plan and engage in social events promoting SWITCH to peers",
+        "Use Graphic Design for promotional posters, t-shirts, etc.",
+        "Volunteer work with girl-scouts and K-12 students introducing STEM and Robotics"
+    }
+  ],
   "awards": [
     {
       "title": "Academic Merit Scholarship",

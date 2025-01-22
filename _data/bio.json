@@ -17,7 +17,7 @@
     { "name": "Interactive media" },
     { "name": "Data Science" },
     { "name": "Cyber Security" },
-    { "name": "Korean Language" }
+    { "name": "AI" }
   ],
   "skills": [
     {
@@ -32,8 +32,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": [ "Computer Science (expected Spring, 2027)", "Korean For Professionals (expected Spring, 2027)" ]
-      "studyType": [ "B.A.", "B.A." ]
+      "area": "Computer Science (expected Spring, 2027)",
+      "studyType": "B.A.",
       "startDate": "2023-08-26",
       "endDate": "Present",
       "courses": [

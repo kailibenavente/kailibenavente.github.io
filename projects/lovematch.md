@@ -9,31 +9,33 @@ labels:
   - User Interaction
   - Data Structure
   - Java
-summary: "I developed a mini name compatibility game after taking ICS 211."
+summary: "I developed a mini name-compatibility game after taking ICS 211."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+Love Match is a mini, terminal-based game I created after taking ICS 211 where we learned a lot about user interaction from the terminal. This program was written in Java and uses unique elements of the language to form the simple algorithm this game is based off of, such as Hash Maps to track certain qualities in a parameter passed through by the user in the terminal. 
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Compatibility is tested by counthing the amount of common characters there are in the names given by the user. That amount is then used as a numerator. The denominator is the total amount of all characters in both names added together. This gives us a fraction of commonality, but I chose to make the uncommon characters determine compatibility. To calculate the percentage of compatibility, we take the fraction of commonality and subtract it from one, giving us a value to convert into decimal form to deliver as a percentage. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+I coded this program on my own during the earlier weeks of ICS 211, having been inspired by the material we were covering at the time and I enjoy how amusing and quaint it is for a smaller first project. Though repetitive and limited, it demonstrates clearly what I took away from an introduction to Java and user interaction.
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is one example run from the program:
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+<hr>
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+<pre>
+
+Welcome to the LOVE MATCH game where we test the compatibility of two given names!
+When you are finished typing a name, hit the ENTER key.
+
+Enter the first name: 
+Johnny Appleseed
+
+Enter the second name: 
+Cat in the Hat
+
+You are 86.67% compatible!
+Wow! You two should REALLY get together! <3
+
+</pre>
+
+<hr>

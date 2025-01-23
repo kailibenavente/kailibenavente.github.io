@@ -46,4 +46,4 @@ You got a total score of 83.33%!
 
 <hr>
 
-See more here: <a href="https://github.com/kailibenavente/go-go-flashcards"> 
+See more here: [github.com/kailibenavente/go-go-flashcards](https://github.com/kailibenavente/go-go-flashcards).

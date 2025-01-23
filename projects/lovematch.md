@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/love-match.png
+image: img/micromouse/love-match-2.png
 title: "Love Match"
 date: 2024
 published: true

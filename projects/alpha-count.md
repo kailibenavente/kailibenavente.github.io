@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/flashcards2.png
+image: img/alphacount.png
 title: "Alpha-Count"
 date: 2024
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A program to count the letters of the alphabet you use made in ICS 212."
 ---
 
-This program was another interactive assignment we had in ICS 212 also written in C. The user can type as many characters as they want, or input a file through the command line, and the program will return the amount of letters used in the passage and the total characters typed.
+This program was another interactive assignment we had in ICS 212 also written in C. The user can type as many characters as they want, or input a file through the command line, and the program will return the amount of letters used in the passage and the total characters typed. Text files are also able to be input through the command line.
 
 Here is a sample a run:
 
@@ -88,3 +88,5 @@ Total Character Count: 452
 </pre>
 
 <hr>
+
+See more at [github.com/kailibenavente/alpha-count](https://github.com/kailibenavente/alpha-count).

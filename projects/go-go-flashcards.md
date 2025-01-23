@@ -12,7 +12,7 @@ labels:
 summary: "A simple math Flashcard set I made in ICS 212."
 ---
 
-This program was made as one of the many interactive assignments we had in ICS 212, a great class focused on learning C and C++. This program involves a lot of user interaction such as asking what operation they want to study, how many questions they want to answer, and live feedback on the questions asked. at the end it totals your 
+This program was made as one of the many interactive assignments we had in ICS 212, a great class focused on learning C and C++. This program involves a lot of user interaction such as asking what operation they want to study, how many questions they want to answer, and live feedback on the questions asked. At the end of the run it totals your score and prints your overall percentage.
 
 Here is a sample a run:
 
@@ -45,3 +45,5 @@ You got a total score of 83.33%!
 </pre>
 
 <hr>
+
+See more here: <a href="https://github.com/kailibenavente/go-go-flashcards"> 

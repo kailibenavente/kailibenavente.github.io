@@ -1,12 +1,14 @@
 ---
 layout: project
 type: project
-image: img/flashcards.png
+image: img/flashcards2.png
 title: "Go-Go Flashcards"
 date: 2024
 published: true
 labels:
+  - User Interaction
   - C
+  - Command Line
 summary: "A simple math Flashcard set I made in ICS 212."
 ---
 

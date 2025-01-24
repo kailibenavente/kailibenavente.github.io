@@ -22,6 +22,12 @@ Regarding the style in general, I appreciate doing solo practice problems! It's 
 
 But the WOD exercises in 314 help me assess how much I can do on my own and what routes I decide to take when writing a function body. Often times, what I write fulfills the expected output but differs from the examples shown. But that's the beauty of software engineering, isn't it?
 
+## Transitioning to TypeScript
+
+So far I am enjoying TypeScript. The 100+ JavaScript modules we did were also enjoyable and learning that everything I wrote in JavaScript would be applicable to TypeScript was a huge relief. 
+
+What I like most about TypeScript is the platform we code on. I think the TypeScript Playground is so easily accessible and requires no organization. With programs, we have to create, manage, and organize files and I ran into a lot of issues in just that portion of completing homework, but having the TypeScript Playground makes turning in assignments that much easier.
+
 ## WODs are Useful!
 
 I truly do think the use of WODs in class are an amazing opportunity to gauge your abilities. And though I've only done a few so far, I can say that they're always pleasant. It measures your logic, your time management, and is a good display of how you problem solve. As mentioned above, my functions never quite match up with the demonstration video afterward, but what the video does provide me with is a new perspective on coding.

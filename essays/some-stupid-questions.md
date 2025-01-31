@@ -193,7 +193,7 @@ export default AuthPage;
 
 ```
 
-(A lot of this code was cut for your reading convenience, see the full question (here)[https://stackoverflow.com/questions/79401833/no-token-found-or-no-token-provided].)
+(A lot of this code was cut for your reading convenience, see the full question [here](https://stackoverflow.com/questions/79401833/no-token-found-or-no-token-provided).)
 
 As you might've observed, there's not much to digest from this question! 
 
@@ -207,7 +207,7 @@ This question doesn't land well and isn't very "smart!"
 
 ## This is how it's done.
 
-Now that we've assessed that damage, let's move onto (a "smarter" question)[https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array]:
+Now that we've assessed that damage, let's move onto [a "smarter" question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array):
 
 ```
 Q: Why is processing a sorted array faster than processing an unsorted array?

@@ -42,6 +42,6 @@ I've always preferred hands-on learning in the classroom because you're surround
 
 When learning is done in class, you're also present with the instructor. If your entire group of peers is stuck on a problem, immediate help can be found in the professor, which I find much less daunting that the skewed communication of emails. After you solve a problem in class, having the professor go over the problem and explain their process is great study material that you can't always find in a textbook or through a link.
 
-## Wrap up...
+## In summation...
 
 I think this learning style will both challenge me and enrich my programming skills. We have practice WODs at home and in class and either way they're delivered, they're enjoyed. What's most important to me when it comes to work is the feedback I receive and the help I get along the way which are both fortunately provided through this style of learning.

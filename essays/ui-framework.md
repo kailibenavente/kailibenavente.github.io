@@ -19,7 +19,7 @@ Though I am sure there is still much more to learn with this medium, I can say t
   
 ## To Each Their Own
 
-There aren't many programs that can be described as "simple" or "easy," programming is difficult for beginners. 
+There aren't many programs that can be described as "simple" or "easy," programming is difficult for beginners. But, after all the messy starts I've had with each language I've learned.
 
 ## Moving Forward
 

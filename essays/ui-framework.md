@@ -9,6 +9,7 @@ labels:
   - UI Frameworks
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/txtOG.jpeg"> <img width="200px" class="rounded float-start pe-4" src="../img/txtRemake.jpeg">
 
 ## Intro to UI frameworks
 
@@ -27,8 +28,6 @@ Even when relying heavily on Bootstrap classes, it's likely that you'll still be
 
 ## Moving Forward
 
-While I can notice some complications with UI Frameworks, complications can be found everywhere. The way I see things, it'll be easier to adjust to a UI Framework if it can provide a lot of unique help along the way. Especially if not using it would give you more work to do when building your website. Recreating website looks has been a really fun practice to do in class, below is an example I made with Bootstrap! The left is the original and the right is my recreation.
-
-<img width="200px" class="rounded float-start pe-4" src="../img/txtOG.jpeg"> <img width="200px" class="rounded float-start pe-4" src="../img/txtRemake.jpeg">
+While I can notice some complications with UI Frameworks, complications can be found everywhere. The way I see things, it'll be easier to adjust to a UI Framework if it can provide a lot of unique help along the way. Especially if not using it would give you more work to do when building your website. Recreating website looks has been a really fun practice to do in class, at the top of the page is an example I made with Bootstrap! The left is the original and the right is my recreation.
 
 <hr>

@@ -19,7 +19,7 @@ Starting in computer science from the lower levels felt more challenging as ever
 
 # Covered Topics
 
-<hr></hr>
+<hr>
 
 ## Agile Project Management
 
@@ -27,11 +27,13 @@ One of the things that stuck with me the most throughout ICS 314, possibly becau
 
 This was not my first time experiencing group project delegation via GitHub. I attended KCC for my ICS 211 class where we also completed a group project through GitHub, but the way we managed our individual tasks for our final 314 project was different, and in my opinion, more efficient. Issue Driven Project Management had us break our project down into smaller issues that we could assign to ourselves or others. We could track the status of our issues and break our project down into 3 separate milestones. It was a lot easier to manage than it was in 211 and did help us stay on track.
   
-## Learning Through AI 
+## User Interface Frameworks 
 
-I really had only begun to use AI in college as a sounding board for my ideas. But with some professors allowing it's use, and others even encouraging it, I began to see it for all its worth. While it can be seen as a cheat code for a quick A, there are many things I have taken away from studying with AI. 
+This class was my first introduce to user interface frameworks, and I can confidently say that I would be very open to work in a position that deals largely with this kind of programming. The only form of user interaction I had known before ICS 314 was all in the terminal, using a scanner to read lines of user input in a Java or C file. 
 
-If I ask a question to an AI chatbot and it answers correctly, there's a high chance I would remember the interaction and not need to use it again for similar issues. There certainly may be people out there who use it at every opportunity, but I think it's good to use it when needed, and avoid using it if you can. AI can also bring more challenges than help as it tends to over complicate a simple answer if you don't know how to properly describe it. 
+User Interface Frameworks with web frameworks was a huge game changer for me. I was able to learn so much more about what you can do with software engineering once we began learning this topic. We got more into the style aspects of websites, which I found to be really entertaining. It was nice to see my low level terminal interactions from earlier classes transition into websites with actual visual assistance on what that terminal interaction could've looked like.
+
+Plus, with tools like Bootstrap, React, and NextJS, there are so many ways you could execute your vision on a web application. All these tools give access to style components to help make your application more palatable and can help you paint a picture of what you want your user's to see and feel when they interact with your projects!
 
 ## Future Considerations
 

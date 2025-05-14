@@ -35,6 +35,8 @@ User Interface Frameworks with web frameworks was a huge game changer for me. I 
 
 Plus, with tools like Bootstrap, React, and NextJS, there are so many ways you could execute your vision on a web application. All these tools give access to style components to help make your application more palatable and can help you paint a picture of what you want your user's to see and feel when they interact with your projects!
 
-## Future Considerations
+<hr>
 
-AI is only expanding and may soon be able to provide quicker, more detailed answers. As this power comes, a lot more academic responsibility will need to be exercised. While it is a good way to study or learn, I would say to use as many of the class-provided materials to study before touching AI. Of course, I do see myself using AI in the future, but not without careful consideration of what I am asking it to help me with and not without really measuring the necessity of its assistance. 
+## To Be a Programmer or Not To Be
+
+I will say that this class has opened a much wider view of possible positions in Computer Science. Of course, I can imagine I've only scratched the surface of Software Engineering. But as more is made available to me, the more interested I become in this field! It's been no easy feat getting to this point in my degree, but because of informative and exciting classes like this one, I know there's only more waiting to be learned and appreciated.

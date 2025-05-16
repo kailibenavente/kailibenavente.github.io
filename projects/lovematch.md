@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/love-match-2.jpg
+image: img/project-pics/love-match-2.jpg
 title: "Love Match"
 date: 2024
-published: true
+published: false
 labels:
   - User Interaction
   - Data Structure

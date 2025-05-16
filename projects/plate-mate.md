@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/campus-plate-mate/logo.png
+image: img/logo.png
 title: "Campus Plate Mate"
 date: 2025
 published: true
@@ -22,19 +22,19 @@ Here are some screenshots of unique pages found on our website:
 
 ### Add Food Page
 
-![](img/campus-plate-mate/addfoodpage.png)
+![](img/addfoodpage.png)
 
 ### Dashboard
 
-![](img/campus-plate-mate/dashboard.png)
+![](img/dashboard.png)
 
 ### Rewards Page
 
-![](img/campus-plate-mate/rewardspage.png)
+![](img/rewardspage.png)
 
 ### Profile Page
 
-![](img/campus-plate-mate/image.png)
+![](img/image.png)
 
 <hr>
 

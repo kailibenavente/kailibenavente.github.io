@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/flashcards2.png
+image: img/project-pics/flashcards2.png
 title: "Go-Go Flashcards"
 date: 2024
 published: true

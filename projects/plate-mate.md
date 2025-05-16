@@ -22,19 +22,19 @@ Here are some screenshots of unique pages found on our website:
 
 ### Add Food Page
 
-<img width="200px" src="../img/addfoodpage.png" class="" >
+<img width="600px" src="../img/addfoodpage.png" class="" >
 
 ### Dashboard
 
-<img width="500px" src="../img/dashboard-1.png" class="" >
+<img width="600px" src="../img/dashboard-1.png" class="" >
 
 ### Rewards Page
 
-<img width="100px" src="../img/rewardspage-1.png" class="" >
+<img width="600px" src="../img/rewardspage-1.png" class="" >
 
 ### Profile Page
 
-<img width="300px" src="../img/profilepage.png" class="" >
+<img width="600px" src="../img/profilepage.png" class="" >
 
 <hr>
 

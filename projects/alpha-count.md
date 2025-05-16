@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/alphacount.png
+image: img/project-pics/alphacount.png
 title: "Alpha-Count"
 date: 2024
 published: true

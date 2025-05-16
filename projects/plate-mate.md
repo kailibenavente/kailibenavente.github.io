@@ -22,19 +22,19 @@ Here are some screenshots of unique pages found on our website:
 
 ### Add Food Page
 
-![](img/addfoodpage.png)
+<img src="../img/addfoodpage.png" class="" >
 
 ### Dashboard
 
-![](img/dashboard.png)
+<img src="../img/dashboard.png" class="" >
 
 ### Rewards Page
 
-![](img/rewardspage.png)
+<img src="../img/rewardspage.png" class="" >
 
 ### Profile Page
 
-![](img/image.png)
+<img src="../img/profilepage.png" class="" >
 
 <hr>
 

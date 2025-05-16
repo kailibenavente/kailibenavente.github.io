@@ -42,11 +42,23 @@
   ],
   "work": [
     {
+      "company": "UH Manoa School of Life Sciences",
+      "position": "Student Assistance",
+      "website": "https://manoa.hawaii.edu/lifesciences/",
+      "startDate": "2025-02-18",
+      "endDate": "",
+      "highlights": [
+        "Collect and distribute mail for all SoLS faculty",
+        "Correspondence between SoLS students and faculty",
+        "Assist SoLS staff/faculty with a variety of duties including but not limited to vehicle maintenance, equipment handling and distribution, and organizational tasks between STJ, EDM, and LSB"
+      ]
+    },
+    {
       "company": "Onyx Salon",
       "position": "Receptionist",
       "website": "",
       "startDate": "2023-11-01",
-      "endDate": "",
+      "endDate": "2024-12-15",
       "highlights": [
         "Maintain, update, and oversee schedules of technicians and clients",
         "Make calls and payments through preferred system",
@@ -70,10 +82,10 @@
     {
       "organization": "Supporting Women In Tech and Computing Hawai'i",
       "website": "https://switch-uhm.github.io/",
-      "position": "Board Member",
+      "position": "VP of Marketing",
       "startDate": "2023-10-24",
       "endDate": "",
-      "summary": "Participating in the organization and planning of events and promotion, including weekend volunteer work with girl-scouts and K-12 students to introduce STEM and Robotics."
+      "summary": "Participating in the organization and planning of events and promotion, including weekend volunteer work with girl-scouts and K-12 students to introduce STEM and Robotics. Marketing our events and fundraisers through our social media accounts."
     }
   ],
   "awards": [

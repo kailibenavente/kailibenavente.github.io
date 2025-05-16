@@ -26,11 +26,11 @@ Here are some screenshots of unique pages found on our website:
 
 ### Dashboard
 
-<img src="../img/dashboard.png" class="" >
+<img src="../img/dashboard-1.png" class="" >
 
 ### Rewards Page
 
-<img src="../img/rewardspage.png" class="" >
+<img src="../img/rewardspage-1.png" class="" >
 
 ### Profile Page
 

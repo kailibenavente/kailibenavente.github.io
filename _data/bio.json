@@ -6,7 +6,7 @@
     "email": "kailib@hawaii.edu",
     "phone": "",
     "website": "https://kailibenavente.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii and a B.A. in Korean For Professionals in the Korean Language Flagship Center. I expect to graduate in Spring, 2027.",
+    "summary": "I am double majoring for a B.A. in Computer Science in the Department of Information and Computer Sciences and a B.A. in Korean For Professionals in the Korean Language Flagship Center at the University of Hawai'i. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "kailibenavente", "url": "http://github.com/kailibenavente" },
@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -34,7 +34,15 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.A.",
-      "startDate": "2023-08-26",
+      "startDate": "2023-08-23",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "area": "Korean For Professionals (expected Spring, 2027)",
+      "studyType": "B.A.",
+      "startDate": "2024-08-26",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,7 +51,7 @@
   "work": [
     {
       "company": "UH Manoa School of Life Sciences",
-      "position": "Student Assistance",
+      "position": "Student Assistant",
       "website": "https://manoa.hawaii.edu/lifesciences/",
       "startDate": "2025-02-18",
       "endDate": "",
@@ -80,12 +88,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Supporting Women In Tech and Computing Hawai'i",
-      "website": "https://switch-uhm.github.io/",
+      "organization": "Supporting Wellness In Tech and Computing Hawai'i",
+      "website": "https://www.instagram.com/uhmswitch/?hl=en",
       "position": "VP of Marketing",
       "startDate": "2023-10-24",
       "endDate": "",
-      "summary": "Participating in the organization and planning of events and promotion, including weekend volunteer work with girl-scouts and K-12 students to introduce STEM and Robotics. Marketing our events and fundraisers through our social media accounts."
+      "summary": "Participating in the organization and planning of social events and promotion, including weekend volunteer work with girl-scouts and K-12 students to introduce STEM and Robotics. Marketing our events and fundraisers through our social media accounts."
     }
   ],
   "awards": [
